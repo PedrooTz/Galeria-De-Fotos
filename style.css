@@ -10,8 +10,8 @@ body {
     height: 100vh;
     grid-template-rows: 125px 1fr 125px;
     margin: 0px 325px 0px 325px;
-    font-family: 'Libre Baskerville', serif;
-    font-family: 'Lora', serif;
+    font-family: 'Anuphan', sans-serif;
+    font-family: 'Anuphan', sans-serif;
     background-color: gray;
     background-size: cover;
     background-repeat: no-repeat;
@@ -164,7 +164,7 @@ footer {
     align-items: center;
 }
 
-.ver__mais {
+.ver_mais {
     border-radius: 50px;
     background-color: blue;
     align-items: center;
@@ -175,14 +175,14 @@ footer {
     justify-content: center;
 }
 
-.ver__mais:hover {
+.ver_mais:hover {
     background-color: blue;
     border-style: solid;
     border-color: blue;
     transform: scale(1.1);
 }
 
-.ver__mais * {
+.ver_mais * {
     text-decoration: none;
     color: white;
 }
